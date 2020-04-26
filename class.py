@@ -10,6 +10,7 @@ obj.getData()
 print(obj.num)
 
 print("----------------------------Constructor----------------------------------")
+print("---------------------Added a New line----------------------------")
 
 
 class Calculator:
